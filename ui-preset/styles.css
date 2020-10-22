@@ -50,6 +50,7 @@ button {
   outline: none;
   border-radius: 25px;
   background: linear-gradient(to left, #00ffed, #9d00c6);
+  cursor: pointer;
 }
 
 #last {
