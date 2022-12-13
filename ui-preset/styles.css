@@ -56,12 +56,12 @@ button {
 }
 
 .content {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	width: 24.666666667vw;
-	height: 16.666666667vw;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 24.666666667vw;
+  height: 16.666666667vw;
 }
 
 .text {
@@ -89,30 +89,30 @@ button {
 
 @media screen and (max-width: 600px) {
   h1 {
-  	font-size: 4.083333333vw;
-  	width: 54.104166667vw;
+    font-size: 4.083333333vw;
+    width: 54.104166667vw;
   }
   p {
-  	font-size: 2.06875vw;
+    font-size: 2.06875vw;
   }
   a {
-  	font-size: 3vw;
+    font-size: 3vw;
   }
   button {
-  	width: 16.333333333vw;
-  	height: 4.447916667vw;
-  	line-height: 4.5625vw;
-  	font-size: 2.40625vw;
-  	border-radius: 2.302083333vw;
+    width: 16.333333333vw;
+    height: 4.447916667vw;
+    line-height: 4.5625vw;
+    font-size: 2.40625vw;
+    border-radius: 2.302083333vw;
   }
   .logo {
-  	font-size: 6vw;
+    font-size: 6vw;
   }
   .content {
-  	width: 46.666666667vw;
-  	height: 31.666666667vw;
+    width: 46.666666667vw;
+    height: 31.666666667vw;
   }
   .text {
-  	height: 58%;
+    height: 58%;
   }
 }
